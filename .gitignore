@@ -1,0 +1,3 @@
+#ignore ipynb setup files / folder
+/ipynb_checkpoints/
+/wav2vec/

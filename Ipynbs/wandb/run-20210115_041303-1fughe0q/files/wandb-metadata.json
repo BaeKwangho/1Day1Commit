@@ -1,0 +1,26 @@
+{
+    "os": "Linux-4.15.0-55-generic-x86_64-with-Ubuntu-18.04-bionic",
+    "python": "3.6.8",
+    "heartbeatAt": "2021-01-15T04:13:16.273844",
+    "startedAt": "2021-01-15T04:13:03.702520",
+    "docker": null,
+    "gpu": "TITAN RTX",
+    "gpu_count": 1,
+    "cpu_count": 20,
+    "cuda": "10.0.130",
+    "args": [
+        "-f",
+        "/root/.local/share/jupyter/runtime/kernel-68d81d8d-3360-462a-915d-ce91082a89cb.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": null,
+        "commit": "cda3109450cc845a6cade46bfecf9c6417191a1f"
+    },
+    "email": "qorhkdgh00@gmail.com",
+    "root": "/root/storage/Experiments/ASR",
+    "host": "6ac1adfe466d",
+    "username": "root",
+    "executable": "/usr/local/bin/python"
+}
